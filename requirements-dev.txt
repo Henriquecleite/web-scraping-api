@@ -1,0 +1,15 @@
+beautifulsoup4==4.6.0
+certifi==2018.4.16
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==1.11
+django-cors-headers==2.4.0
+django-filter==1.1.0
+djangorestframework==3.7.7
+Pillow==5.0.0
+pipenv==2018.7.1
+python-decouple==3.1
+pytz==2018.3
+static3==0.7.0
+virtualenv==15.1.0
+virtualenv-clone==0.3.0

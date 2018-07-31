@@ -1,0 +1,1 @@
+web: gunicorn web_scraping_api.wsgi --log-file -
